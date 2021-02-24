@@ -58,7 +58,7 @@ When sending Ether to the contract, make sure you hit your goal that you set, an
 Remember, the refund feature of RefundablePostDeliveryCrowdsale only allows for refunds once the crowdsale is closed and the goal is met. See the OpenZeppelin RefundableCrowdsale documentation for details as to why this is logic is used to prevent potential attacks on your token's value.
 
 You can add custom tokens in MyCrypto from the Add custom token feature:
-![Crowd](https://github.com/docfern/advance-solidity/blob/main/screenshot/Crowd.jpg)
+![Token](https://github.com/docfern/advance-solidity/blob/main/screenshot/TokenBalance.jpg)
 
 You can also do the same for MetaMask. Make sure to purchase higher amounts of tokens in order to see the denomination appear in your wallets as more than a few wei worth.
 
